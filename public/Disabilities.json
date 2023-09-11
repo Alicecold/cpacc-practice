@@ -1,0 +1,31 @@
+[
+    {
+      "category": "Disabilities",
+      "subcategory": "Mobility",
+      "question": "What is the primary mode of mobility for a person who uses a wheelchair?",
+      "options": ["Walking", "Running", "Crawling", "Wheeling"],
+      "correctAnswer": "Wheeling"
+    },
+    {
+      "category": "Disabilities",
+      "subcategory": "Visual Impairment",
+      "question": "What is Braille used for?",
+      "options": ["Cooking", "Reading", "Playing Music", "Driving"],
+      "correctAnswer": "Reading"
+    },
+    {
+        "category": "Disabilities",
+        "subcategory": "Mobility",
+        "question": "What is the primary mode of mobility for a person who uses a wheelchair?",
+        "options": ["Walking", "Running", "Crawling", "Wheeling"],
+        "correctAnswer": "Wheeling"
+      },
+      {
+        "category": "Disabilities",
+        "subcategory": "Visual Impairment",
+        "question": "What is Braille used for?",
+        "options": ["Cooking", "Reading", "Playing Music", "Driving"],
+        "correctAnswer": "Reading"
+      }
+  ]
+  
