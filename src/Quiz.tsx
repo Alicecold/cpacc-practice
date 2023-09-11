@@ -16,7 +16,7 @@ const Quiz: React.FC = () => {
 
   useEffect(() => {
     const fetchQuestionsByCategory = async (category: string) => {
-      const response = await fetch(`/${category}.json`);
+      const response = await fetch(`/quizdata/${category}.json`);
       const data: QuizData[] = await response.json();
       return data;
     };
