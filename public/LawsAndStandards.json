@@ -1,28 +1,22 @@
 [
     {
-      "category": "Laws and Standards",
-      "subcategory": "Accessibility Regulations",
       "question": "Which law mandates that public websites and digital content must be accessible to individuals with disabilities?",
       "options": ["ADA (Americans with Disabilities Act)", "HIPAA (Health Insurance Portability and Accountability Act)", "COPPA (Children's Online Privacy Protection Act)", "FCC (Federal Communications Commission) Act"],
       "correctAnswer": "ADA (Americans with Disabilities Act)"
     },
     {
-      "category": "Laws and Standards",
-      "subcategory": "Web Content Accessibility Guidelines (WCAG)",
+
       "question": "What international set of guidelines provides recommendations for making web content more accessible?",
       "options": ["ISO 9001", "WCAG", "OSHA", "ADAAG"],
       "correctAnswer": "WCAG"
     },
     {
-        "category": "Laws and Standards",
-        "subcategory": "Accessibility Regulations",
+
         "question": "Which law mandates that public websites and digital content must be accessible to individuals with disabilities?",
         "options": ["ADA (Americans with Disabilities Act)", "HIPAA (Health Insurance Portability and Accountability Act)", "COPPA (Children's Online Privacy Protection Act)", "FCC (Federal Communications Commission) Act"],
         "correctAnswer": "ADA (Americans with Disabilities Act)"
       },
       {
-        "category": "Laws and Standards",
-        "subcategory": "Web Content Accessibility Guidelines (WCAG)",
         "question": "What international set of guidelines provides recommendations for making web content more accessible?",
         "options": ["ISO 9001", "WCAG", "OSHA", "ADAAG"],
         "correctAnswer": "WCAG"

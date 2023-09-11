@@ -1,28 +1,22 @@
 [
     {
-      "category": "Tools",
-      "subcategory": "Screen Readers",
       "question": "Which software tool is commonly used by individuals with visual impairments to access digital content?",
       "options": ["Hammer", "Screwdriver", "Magnifying Glass", "Screen Reader"],
       "correctAnswer": "Screen Reader"
     },
     {
-      "category": "Tools",
-      "subcategory": "Assistive Keyboards",
+
       "question": "What type of keyboard is designed to assist people with limited dexterity or mobility?",
       "options": ["Standard Keyboard", "Mechanical Keyboard", "Virtual Keyboard", "Assistive Keyboard"],
       "correctAnswer": "Assistive Keyboard"
     },
     {
-        "category": "Tools",
-        "subcategory": "Screen Readers",
+
         "question": "Which software tool is commonly used by individuals with visual impairments to access digital content?",
         "options": ["Hammer", "Screwdriver", "Magnifying Glass", "Screen Reader"],
         "correctAnswer": "Screen Reader"
       },
       {
-        "category": "Tools",
-        "subcategory": "Assistive Keyboards",
         "question": "What type of keyboard is designed to assist people with limited dexterity or mobility?",
         "options": ["Standard Keyboard", "Mechanical Keyboard", "Virtual Keyboard", "Assistive Keyboard"],
         "correctAnswer": "Assistive Keyboard"

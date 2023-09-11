@@ -2,8 +2,6 @@ import React, { useState } from 'react';
 import './Question.css'; // Import the CSS file for this component
 
 interface QuestionProps {
-  category: string;
-  subcategory: string;
   question: string;
   options: string[];
   correctAnswer: string;
@@ -11,8 +9,6 @@ interface QuestionProps {
 }
 
 const Question: React.FC<QuestionProps> = ({
-  category,
-  subcategory,
   question,
   options,
   correctAnswer,
@@ -32,8 +28,6 @@ const Question: React.FC<QuestionProps> = ({
 
   return (
     <div className="question-container"> {/* Apply the CSS class */}
-      <h3 className="category">Category: {category}</h3>
-      <h4 className="subcategory">Subcategory: {subcategory}</h4>
       <h2 className="question">{question}</h2>
       <ul>
         {options.map((option, index) => (

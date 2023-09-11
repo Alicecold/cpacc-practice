@@ -3,8 +3,6 @@ import Question from './Question';
 import './Quiz.css';
 
 interface QuizData {
-  category: string;
-  subcategory: string;
   question: string;
   options: string[];
   correctAnswer: string;
@@ -44,10 +42,14 @@ const Quiz: React.FC = () => {
     loadQuestions().catch((error) => console.error('Error loading questions:', error));
   }, []);
 
-  const selectRandomQuestions = (questions: QuizData[], count: number) => {
-    const shuffled = [...questions].sort(() => Math.random() - 0.5);
-    return shuffled.slice(0, count);
-  };
+  function selectRandomQuestions<T>(array: T[], count: number): T[] {
+    const shuffled = [...array];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]; // Swap elements at i and j
+    }
+    return shuffled.slice(0, count);;
+  }
 
   const handleAnswer = (isCorrect: boolean) => {
     if (isCorrect) {
@@ -57,12 +59,10 @@ const Quiz: React.FC = () => {
 
   return (
     <div>
-      <h1>Quiz Questions</h1>
+      <h1>CPACC Training Quiz</h1>
       {quizData.map((questionData, index) => (
         <Question
           key={index}
-          category={questionData.category}
-          subcategory={questionData.subcategory}
           question={questionData.question}
           options={questionData.options}
           correctAnswer={questionData.correctAnswer}

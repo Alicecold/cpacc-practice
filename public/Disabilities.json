@@ -1,31 +1,202 @@
 [
-    {
-      "category": "Disabilities",
-      "subcategory": "Mobility",
-      "question": "What is the primary mode of mobility for a person who uses a wheelchair?",
-      "options": ["Walking", "Running", "Crawling", "Wheeling"],
-      "correctAnswer": "Wheeling"
-    },
-    {
-      "category": "Disabilities",
-      "subcategory": "Visual Impairment",
-      "question": "What is Braille used for?",
-      "options": ["Cooking", "Reading", "Playing Music", "Driving"],
-      "correctAnswer": "Reading"
-    },
-    {
-        "category": "Disabilities",
-        "subcategory": "Mobility",
-        "question": "What is the primary mode of mobility for a person who uses a wheelchair?",
-        "options": ["Walking", "Running", "Crawling", "Wheeling"],
-        "correctAnswer": "Wheeling"
-      },
-      {
-        "category": "Disabilities",
-        "subcategory": "Visual Impairment",
-        "question": "What is Braille used for?",
-        "options": ["Cooking", "Reading", "Playing Music", "Driving"],
-        "correctAnswer": "Reading"
-      }
-  ]
-  
+  {
+    "question": "What is the primary focus of the Medical Model of disability?",
+    "options": [
+      "a) Addressing societal barriers",
+      "b) Promoting social inclusion",
+      "c) Treating the individual's bodily condition",
+      "d) Advocating for equal rights"
+    ],
+    "correctAnswer": "c) Treating the individual's bodily condition"
+  },
+  {
+    "question": "According to the Medical Model, what is the main response at the political level to disability?",
+    "options": [
+      "a) Social integration",
+      "b) Health care policy reform",
+      "c) Legal rights protection",
+      "d) Economic support"
+    ],
+    "correctAnswer": "b) Health care policy reform"
+  },
+  {
+    "question": "What is one of the strengths of the Medical Model in addressing disabilities?",
+    "options": [
+      "a) Emphasizes social and environmental factors",
+      "b) Focuses on societal inclusion",
+      "c) Addresses the biological sources of disabilities",
+      "d) Promotes social justice"
+    ],
+    "correctAnswer": "c) Addresses the biological sources of disabilities"
+  },
+  {
+    "question": "According to the Social Model, who is responsible for making the environment accessible for people with disabilities?",
+    "options": [
+      "a) The individual with a disability",
+      "b) The medical professionals",
+      "c) Society at large",
+      "d) Charitable organizations"
+    ],
+    "correctAnswer": "c) Society at large"
+  },
+  {
+    "question": "What does the Social Model emphasize as the cause of disability-related challenges?",
+    "options": [
+      "a) Biological factors",
+      "b) Environmental and societal factors",
+      "c) Psychological factors",
+      "d) Economic factors"
+    ],
+    "correctAnswer": "b) Environmental and societal factors"
+  },
+  {
+    "question": "Which model of disability considers disability as a human rights issue?",
+    "options": [
+      "a) Medical Model",
+      "b) Economic Model",
+      "c) Social Model",
+      "d) Charity Model"
+    ],
+    "correctAnswer": "c) Social Model"
+  },
+  {
+    "question": "What is a potential drawback of the Social Model's focus on social justice?",
+    "options": [
+      "a) It ignores the environment's impact on disabilities",
+      "b) It promotes antagonistic relationships",
+      "c) It downplays bodily characteristics",
+      "d) It stigmatizes people with disabilities"
+    ],
+    "correctAnswer": "b) It promotes antagonistic relationships"
+  },
+  {
+    "question": "What is the Biopsychosocial Model's approach to disability?",
+    "options": [
+      "a) It integrates the medical and social models",
+      "b) It solely focuses on medical treatment",
+      "c) It emphasizes economic consequences",
+      "d) It ignores the social environment"
+    ],
+    "correctAnswer": "a) It integrates the medical and social models"
+  },
+  {
+    "question": "What does the Economic Model of disability primarily define disability by?",
+    "options": [
+      "a) Individual's adjustment",
+      "b) Ability to participate in work",
+      "c) Cultural affiliation",
+      "d) Need for medical care"
+    ],
+    "correctAnswer": "b) Ability to participate in work"
+  },
+  {
+    "question": "According to the Economic Model, what may be a consequence of disability on an employer?",
+    "options": [
+      "a) Lower profit margins",
+      "b) Higher productivity",
+      "c) Increased innovation",
+      "d) No impact on profitability"
+    ],
+    "correctAnswer": "a) Lower profit margins"
+  },
+  {
+    "question": "What is a potential drawback of the Economic Model in categorizing people with disabilities?",
+    "options": [
+      "a) It promotes economic independence",
+      "b) It creates stigmatization",
+      "c) It encourages social inclusion",
+      "d) It provides comprehensive support"
+    ],
+    "correctAnswer": "b) It creates stigmatization"
+  },
+  {
+    "question": "What is the primary focus of the Functional Solutions Model?",
+    "options": [
+      "a) Sociopolitical aspects of disability",
+      "b) Identifying functional impairments",
+      "c) Providing economic support",
+      "d) Encouraging cultural affiliation"
+    ],
+    "correctAnswer": "b) Identifying functional impairments"
+  },
+  {
+    "question": "What is the strength of the Functional Solutions Model?",
+    "options": [
+      "a) It prioritizes socioeconomic issues",
+      "b) It promotes social justice",
+      "c) It seeks practical solutions to challenges",
+      "d) It downplays the impact of technology"
+    ],
+    "correctAnswer": "c) It seeks practical solutions to challenges"
+  },
+  {
+    "question": "What potential weakness is associated with the Functional Solutions Model when it comes to new technologies?",
+    "options": [
+      "a) Lack of innovation",
+      "b) Expensive solutions",
+      "c) Overemphasis on societal issues",
+      "d) Ignoring the target population"
+    ],
+    "correctAnswer": "b) Expensive solutions"
+  },
+  {
+    "question": "What does the Social Identity or Cultural Affiliation Model focus on?",
+    "options": [
+      "a) Providing economic support",
+      "b) Sense of belonging within a group",
+      "c) Medical treatment",
+      "d) Societal barriers"
+    ],
+    "correctAnswer": "b) Sense of belonging within a group"
+  },
+  {
+    "question": "Which group of people is most evident in the Social Identity or Cultural Affiliation Model?",
+    "options": [
+      "a) People with physical disabilities",
+      "b) People with intellectual disabilities",
+      "c) Deaf individuals",
+      "d) People with temporary injuries"
+    ],
+    "correctAnswer": "c) Deaf individuals"
+  },
+  {
+    "question": "What is one of the strengths of the Social Identity or Cultural Affiliation Model?",
+    "options": [
+      "a) It promotes exclusion",
+      "b) It discourages group identity",
+      "c) It accepts disability as a point of pride",
+      "d) It stigmatizes cultural affiliation"
+    ],
+    "correctAnswer": "c) It accepts disability as a point of pride"
+  },
+  {
+    "question": "What does the Charity Model view people with disabilities as?",
+    "options": [
+      "a) Equal members of society",
+      "b) Beneficiaries of social justice",
+      "c) Unfortunate and in need of assistance",
+      "d) Self-sufficient individuals"
+    ],
+    "correctAnswer": "c) Unfortunate and in need of assistance"
+  },
+  {
+    "question": "What is one potential drawback of the Charity Model?",
+    "options": [
+      "a) It inspires long-term solutions",
+      "b) It emphasizes equal rights",
+      "c) It can be condescending",
+      "d) It focuses on societal change"
+    ],
+    "correctAnswer": "c) It can be condescending"
+  },
+  {
+    "question": "According to the text, what is the main focus of the Charity Model?",
+    "options": [
+      "a) Economic consequences",
+      "b) Social inclusion",
+      "c) Immediate needs and charity",
+      "d) Long-term solutions and innovation"
+    ],
+    "correctAnswer": "c) Immediate needs and charity"
+  }
+]
