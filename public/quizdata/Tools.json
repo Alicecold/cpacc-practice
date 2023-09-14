@@ -1,25 +1,57 @@
 [
-    {
-      "question": "Which software tool is commonly used by individuals with visual impairments to access digital content?",
-      "options": ["Hammer", "Screwdriver", "Magnifying Glass", "Screen Reader"],
-      "correctAnswer": "Screen Reader"
-    },
-    {
-
-      "question": "What type of keyboard is designed to assist people with limited dexterity or mobility?",
-      "options": ["Standard Keyboard", "Mechanical Keyboard", "Virtual Keyboard", "Assistive Keyboard"],
-      "correctAnswer": "Assistive Keyboard"
-    },
-    {
-
-        "question": "Which software tool is commonly used by individuals with visual impairments to access digital content?",
-        "options": ["Hammer", "Screwdriver", "Magnifying Glass", "Screen Reader"],
-        "correctAnswer": "Screen Reader"
-      },
-      {
-        "question": "What type of keyboard is designed to assist people with limited dexterity or mobility?",
-        "options": ["Standard Keyboard", "Mechanical Keyboard", "Virtual Keyboard", "Assistive Keyboard"],
-        "correctAnswer": "Assistive Keyboard"
-      }
-  ]
-  
+  {
+    "question": "Name one of the seven principles of universal design.",
+    "options": [
+      "1. Equitable Use",
+      "2. Accessibility for a Few",
+      "3. Complex and Confusing Design",
+      "4. Error-Prone Design"
+    ],
+    "correctAnswer": "1. Equitable Use"
+  },
+  {
+    "question": "What is the goal of inclusive design for the built environment?",
+    "options": [
+      "1. To create and support accessible buildings and spaces",
+      "2. To reduce the need for assistive technologies",
+      "3. To increase legal compliance",
+      "4. To minimize the cost of construction"
+    ],
+    "correctAnswer": "1. To create and support accessible buildings and spaces"
+  },
+  {
+    "question": "What is the primary goal of Web accessibility?",
+    "options": [
+      "1. To create visually appealing websites",
+      "2. To attract a broad audience",
+      "3. To ensure a website can be easily navigated and understood by all, including those with disabilities",
+      "4. To maximize advertising revenue"
+    ],
+    "correctAnswer": "3. To ensure a website can be easily navigated and understood by all, including those with disabilities"
+  },
+  {
+    "question": "What does the Universal Design for Learning framework emphasize?",
+    "options": [
+      "1. Strict routine in teaching",
+      "2. Cultural diversity in education",
+      "3. Flexibility in teaching and learning",
+      "4. Standardized assessment methods"
+    ],
+    "correctAnswer": "3. Flexibility in teaching and learning"
+  },
+  {
+    "question": "How many UDL guidelines are there?",
+    "options": ["1. One", "2. Two", "3. Three", "4. Four"],
+    "correctAnswer": "3. Three"
+  },
+  {
+    "question": "What is the main goal of providing multiple means of engagement in the UDL framework?",
+    "options": [
+      "1. To motivate all learners to work alone",
+      "2. To strictly adhere to routine",
+      "3. To motivate and engage learners with diverse preferences and needs",
+      "4. To minimize cultural diversity"
+    ],
+    "correctAnswer": "3. To motivate and engage learners with diverse preferences and needs"
+  }
+]

@@ -1,25 +1,102 @@
 [
     {
-      "question": "Which law mandates that public websites and digital content must be accessible to individuals with disabilities?",
-      "options": ["ADA (Americans with Disabilities Act)", "HIPAA (Health Insurance Portability and Accountability Act)", "COPPA (Children's Online Privacy Protection Act)", "FCC (Federal Communications Commission) Act"],
-      "correctAnswer": "ADA (Americans with Disabilities Act)"
+      "question": "What is the goal of the Accessibility Maturity Model?",
+      "options": [
+        "1. To assess the organization's progress on a scale of 1-10",
+        "2. To benchmark an organization's progress in all aspects of accessibility",
+        "3. To identify and transfer best practices throughout the organization",
+        "4. To create a self-assessment tool for technology champions"
+      ],
+      "correctAnswer": "3. To identify and transfer best practices throughout the organization"
     },
     {
-
-      "question": "What international set of guidelines provides recommendations for making web content more accessible?",
-      "options": ["ISO 9001", "WCAG", "OSHA", "ADAAG"],
-      "correctAnswer": "WCAG"
+      "question": "According to the Accessible Technology Charter, what is the role of an Executive Level Technology Champion?",
+      "options": [
+        "1. To design accessible technology solutions",
+        "2. To ensure continuous improvement in accessibility",
+        "3. To perform accessibility evaluations",
+        "4. To monitor procurement processes"
+      ],
+      "correctAnswer": "2. To ensure continuous improvement in accessibility"
     },
     {
-
-        "question": "Which law mandates that public websites and digital content must be accessible to individuals with disabilities?",
-        "options": ["ADA (Americans with Disabilities Act)", "HIPAA (Health Insurance Portability and Accountability Act)", "COPPA (Children's Online Privacy Protection Act)", "FCC (Federal Communications Commission) Act"],
-        "correctAnswer": "ADA (Americans with Disabilities Act)"
-      },
-      {
-        "question": "What international set of guidelines provides recommendations for making web content more accessible?",
-        "options": ["ISO 9001", "WCAG", "OSHA", "ADAAG"],
-        "correctAnswer": "WCAG"
-      }
+      "question": "At what level in the Accessibility Maturity Model is the process established and actioned consistently?",
+      "options": [
+        "1. Level 1",
+        "2. Level 2",
+        "3. Level 3",
+        "4. Level 4"
+      ],
+      "correctAnswer": "3. Level 3"
+    },
+    {
+      "question": "What does the W3C recommend regarding accessibility evaluation during the design and development process?",
+      "options": [
+        "1. Evaluate accessibility only at the end of the project lifecycle",
+        "2. Perform formative evaluations but skip summative evaluations",
+        "3. Evaluate early and throughout the design and development process",
+        "4. Rely solely on automated evaluation tools"
+      ],
+      "correctAnswer": "3. Evaluate early and throughout the design and development process"
+    },
+    {
+      "question": "What is the significance of recruiting and including people with disabilities?",
+      "options": [
+        "1. It improves the organization's legal compliance",
+        "2. It increases the organization's profit margins",
+        "3. It enhances diversity and benefits the workplace",
+        "4. It reduces the need for assistive technologies"
+      ],
+      "correctAnswer": "3. It enhances diversity and benefits the workplace"
+    },
+    {
+      "question": "Which of the following is NOT a skill mentioned for candidates in the field of digital accessibility?",
+      "options": [
+        "1. Design using CSS, HTML, and JavaScript",
+        "2. Knowledge of standards such as WCAG 2.1 and PDF / UA",
+        "3. Ability to create, test, and remediate digital files",
+        "4. Expertise in social media marketing"
+      ],
+      "correctAnswer": "4. Expertise in social media marketing"
+    },
+    {
+      "question": "What should organizations do to ensure that their marketing and external communications are accessible and inclusive?",
+      "options": [
+        "1. Provide training to communicators on using people-first language",
+        "2. Ensure the documents published are lengthy and detailed",
+        "3. Avoid the use of plain language to sound more professional",
+        "4. Limit their communications to text-only formats"
+      ],
+      "correctAnswer": "1. Provide training to communicators on using people-first language"
+    },
+    {
+      "question": "Why should organizations consider universal design and born accessible approaches?",
+      "options": [
+        "1. To reduce legal and PR implications",
+        "2. To increase the attractiveness of their products",
+        "3. To lower their production costs",
+        "4. To limit their audience reach"
+      ],
+      "correctAnswer": "2. To increase the attractiveness of their products"
+    },
+    {
+      "question": "What should organizations do to leverage their procurement processes for accessible products and services?",
+      "options": [
+        "1. Ignore vendor accessibility expertise and capacity",
+        "2. Avoid contractual agreements related to accessibility",
+        "3. Periodically review vendor's product accessibility roadmap",
+        "4. Minimize the organization's influence on vendors"
+      ],
+      "correctAnswer": "3. Periodically review vendor's product accessibility roadmap"
+    },
+    {
+      "question": "Why should organizations capitalize on the positive public relations that accessibility brings?",
+      "options": [
+        "1. To increase legal obligations",
+        "2. To improve the attractiveness of their products",
+        "3. To benefit from a wider market and better reputation",
+        "4. To reduce accessibility standards"
+      ],
+      "correctAnswer": "3. To benefit from a wider market and better reputation"
+    }
   ]
-  
