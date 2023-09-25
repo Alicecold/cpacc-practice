@@ -1,3 +1,11 @@
+# CPACC training quiz
+
+A Quiz where I can add questions from reading up on CPACC certification into a quiz for future training
+
+a lot of the code is AI-generated (with A LOT of holding chatgpt's hand because oh lord is it artificially stupid sometimes). The reasoning being that I immediately wanted to jump into learning a11y theory.
+
+More quiz questions will come up as I progress in my studies, and some might be editided as I learn more about the subject.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
